@@ -1,3 +1,4 @@
 .quarto
 /demo website_files/
 .DS_Store
+/.quarto/
