@@ -1,5 +1,20 @@
 project:
-  title: "Demo Website"
+  type: website
+  preview:
+    port: 4000
 
-
-
+website:
+  title: "Hailey Knolton"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      
+format:
+  html:
+    theme: cosmo
+    toc: true

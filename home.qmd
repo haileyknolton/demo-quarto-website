@@ -1,0 +1,12 @@
+---
+title: "Hailey Knolton"
+---
+
+## About Me
+
+A few paragraphs to talk about me
+
+<!-- ![image](haileyprofphoto2.jpg) -->
+
+
+[Cute Dog](https://image.petmd.com/files/styles/863x625/public/CANS_dogsmiling_379727605.jpg?w=1920&q=75)
